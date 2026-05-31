@@ -6,7 +6,6 @@ import "./styles.css";
 const suspects = [
   "Miss Scarlet",
   "Colonel Mustard",
-  "Mrs. White",
   "Mr. Green",
   "Mrs. Peacock",
   "Professor Plum",
